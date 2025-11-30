@@ -1,0 +1,11 @@
+order_id,user_email,status,courier,tracking_url,expected_delivery,last_updated
+1001,jane@example.com,Shipped,DHL,https://tracking.example.com/1001,23/11/2025,20/11/2025
+1002,john@example.com,Out for delivery,UPS,https://tracking.example.com/1002,21/11/2025,21/11/2025
+1003,josh@example.com,Delivered,Royal Mail,https://tracking.example.com/1003,18/11/2025,18/11/2025
+1004,sam@example.com,Processing,DPD,https://tracking.example.com/1004,27/11/2025,25/11/2025
+1005,chris@example.com,Processing,Royal Mail,https://tracking.example.com/1005,27/11/2025,21/11/2025
+1006,steve@example.com,Shipped,DPD,https://tracking.example.com/1006,31/12/2025,25/11/2025
+1007,mohammad@example.com,Shipped,Royal Mail,https://tracking.example.com/1007,14/12/2025,25/11/2025
+1008,max@example.com,Out for delivery,UPS,https://tracking.example.com/1008,29/12/2025,18/11/2025
+1009,kyle@example.com,Delivered,DHL,https://tracking.example.com/1009,25/11/2025,21/11/2025
+1010,yusef@example.com,Out for delivery,DPD,https://tracking.example.com/1010,02/12/2025,25/11/2025
